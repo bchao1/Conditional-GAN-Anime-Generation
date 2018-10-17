@@ -2,7 +2,7 @@
 Conditional Anime Generation using conditional GAN.
 
 ## Model and Objectives
-![model](./img_src/conditional_gan.png)
+![model](./img_src/conditional_gan.PNG)
 
 Different from vanilla GAN, the generator and discriminator in conditional GAN (abbr. CGAN) will be given a specific condition (could be a one-hot vector indicating classes or a word-embedding).
 ***
